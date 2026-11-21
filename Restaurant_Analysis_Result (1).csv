@@ -1,0 +1,51 @@
+Order_ID,Item,Quantity,Payment,Date,Price,Category,Revenue
+1,Pizza,2,Card,2026-01-01,250,Main Course,500
+2,Burger,1,Cash,2026-01-02,120,Main Course,120
+3,Pasta,4,Cash,2026-01-03,180,Main Course,720
+4,Sandwich,4,Cash,2026-01-04,100,Snacks,400
+5,Pizza,2,UPI,2026-01-05,250,Main Course,500
+6,Burger,3,UPI,2026-01-06,120,Main Course,360
+7,Fries,3,UPI,2026-01-07,80,Snacks,240
+8,Pasta,4,UPI,2026-01-08,180,Main Course,720
+9,Pizza,1,Cash,2026-01-09,250,Main Course,250
+10,Sandwich,4,Cash,2026-01-10,100,Snacks,400
+11,Burger,2,UPI,2026-01-11,120,Main Course,240
+12,Pizza,4,UPI,2026-01-12,250,Main Course,1000
+13,Pasta,3,Card,2026-01-13,180,Main Course,540
+14,Fries,2,Cash,2026-01-14,80,Snacks,160
+15,Burger,3,Card,2026-01-15,120,Main Course,360
+16,Sandwich,2,UPI,2026-01-16,100,Snacks,200
+17,Pizza,1,Card,2026-01-17,250,Main Course,250
+18,Pasta,2,UPI,2026-01-18,180,Main Course,360
+19,Burger,4,Card,2026-01-19,120,Main Course,480
+20,Fries,2,UPI,2026-01-20,80,Snacks,160
+21,Pizza,4,Card,2026-01-21,250,Main Course,1000
+22,Sandwich,2,UPI,2026-01-22,100,Snacks,200
+23,Burger,3,Card,2026-01-23,120,Main Course,360
+24,Pasta,4,Cash,2026-01-24,180,Main Course,720
+25,Pizza,1,UPI,2026-01-25,250,Main Course,250
+26,Fries,1,Card,2026-01-26,80,Snacks,80
+27,Burger,2,Card,2026-01-27,120,Main Course,240
+28,Sandwich,4,Card,2026-01-28,100,Snacks,400
+29,Pizza,2,Card,2026-01-29,250,Main Course,500
+30,Pasta,3,UPI,2026-01-30,180,Main Course,540
+31,Burger,3,Cash,2026-01-31,120,Main Course,360
+32,Pizza,1,Cash,2026-02-01,250,Main Course,250
+33,Fries,1,Cash,2026-02-02,80,Snacks,80
+34,Sandwich,2,UPI,2026-02-03,100,Snacks,200
+35,Pasta,2,Card,2026-02-04,180,Main Course,360
+36,Pizza,1,UPI,2026-02-05,250,Main Course,250
+37,Burger,1,UPI,2026-02-06,120,Main Course,120
+38,Fries,4,UPI,2026-02-07,80,Snacks,320
+39,Pasta,3,UPI,2026-02-08,180,Main Course,540
+40,Sandwich,4,Cash,2026-02-09,100,Snacks,400
+41,Pizza,2,Card,2026-02-10,250,Main Course,500
+42,Burger,1,UPI,2026-02-11,120,Main Course,120
+43,Pasta,1,UPI,2026-02-12,180,Main Course,180
+44,Fries,2,Cash,2026-02-13,80,Snacks,160
+45,Pizza,1,Cash,2026-02-14,250,Main Course,250
+46,Sandwich,3,Cash,2026-02-15,100,Snacks,300
+47,Burger,4,Cash,2026-02-16,120,Main Course,480
+48,Pasta,3,Card,2026-02-17,180,Main Course,540
+49,Pizza,3,Card,2026-02-18,250,Main Course,750
+50,Fries,2,Cash,2026-02-19,80,Snacks,160
